@@ -4,7 +4,7 @@
 
 Movie App - приложение, отображающее информацию о фильмах по запросу пользователя.
 
-<kbd>![](images/movie-app.jpg)</kbd>
+<kbd>![](images/movie-app-demo.jpg)</kbd>
 
 - Вёрстка состоит из друх блоков: `<header>`, `<main>`
 
