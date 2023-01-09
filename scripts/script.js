@@ -9,7 +9,7 @@ inputBox.addEventListener('submit', () => {
 
 function getN(value) {
 	input = value
-	getData(`https://api.themoviedb.org/3/search/movie?query=${input}&api_key=3fd2be6f0c70a2a598f084ddfb75487c`);
+	getData(`https://api.themoviedb.org/3/search/movie?query=${input}&api_key=123ede17028baf0ee724c1e0d5cbf942`);
 }
 
 function getData(input) {
